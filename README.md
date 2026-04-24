@@ -1,4 +1,4 @@
-# Mechanical Properties Prediction using Machine Learning
+# Prediction-of-Mechanical-Properties-of-Materials
 
 ## Overview
 
